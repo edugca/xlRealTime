@@ -6,5 +6,5 @@ Os resultados são buscados no site do TSE a cada 10s.
 
 Só funciona no Excel para Windows e é necessário ativar as macros.
 
-Bom voto!
+Bom voto e viva a democracia!
 
