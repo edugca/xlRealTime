@@ -8,3 +8,7 @@ Só funciona no Excel para Windows e é necessário ativar as macros.
 
 Bom voto e viva a democracia!
 
+## Version History
+
+### 0.1
+- First release
