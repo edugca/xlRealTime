@@ -1,5 +1,7 @@
 # xlRealTime
 
+**Em breve, atualização para o 2º turno.**
+
 Planilha com resultados da eleição BR 2022 para presidente em tempo real.
 
 Os resultados são buscados no site do TSE a cada 10s.
