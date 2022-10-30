@@ -4,7 +4,7 @@
 
 Planilha com resultados da eleição BR 2022 para presidente e governador em tempo real.
 
-Você deve baixar a planilha "xlRealTime.xlsm". Opcionalmente, você pode baixar os arquivos "Vai dar PT.wav" e "Capitão do povo.wav" e salvá-los na mesma pasta da planilha.
+Você deve baixar a planilha "xlRealTime.xlsm". Opcionalmente, pode baixar também os arquivos "Vai dar PT.wav" e "Capitão do povo.wav" e salvá-los na mesma pasta da planilha.
 
 Os resultados são buscados no site do TSE a cada 20s.
 
