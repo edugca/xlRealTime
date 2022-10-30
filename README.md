@@ -4,6 +4,8 @@
 
 Planilha com resultados da eleição BR 2022 para presidente e governador em tempo real.
 
+Um guia explicando como funciona a planilha: https://twitter.com/edugca/status/1586604403343114241?s=20&t=uMxe-6s5t1T0349XkafMsg
+
 Você deve baixar a planilha "xlRealTime.xlsm". Opcionalmente, pode baixar também os arquivos "Vai dar PT.wav" e "Capitão do povo.wav" e salvá-los na mesma pasta da planilha.
 
 Os resultados são buscados no site do TSE a cada 20s.
